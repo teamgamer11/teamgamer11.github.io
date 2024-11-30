@@ -5,4 +5,4 @@
 
 ![alt text](IMG_0216.jpeg)
 
-[Risk](risk.md)
+[☀️ Risk](risk.md)
