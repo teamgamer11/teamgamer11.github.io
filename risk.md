@@ -36,6 +36,5 @@
 
 ---
 
-####**[🌟 Perth's Page](https://teamgamer11.github.io)**
-####**[🚀 Captain's Page](https://captainnn3.github.io)**
+#### [🚀 Captain's Page](https://captainnn3.github.io)
   
