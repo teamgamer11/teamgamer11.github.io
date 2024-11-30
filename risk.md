@@ -1,4 +1,4 @@
-### **CISSP Glossary**
+## **CISSP Glossary**
 - **Default**:  
   The possibility of damage or harm and the likelihood that damage or harm will be realized.  
 - **ChatGPT**:  
@@ -10,7 +10,7 @@
 
 ---
  
-### **SEBoK**
+## **SEBoK**
 - **Default**:  
   Risk is a measure of the potential inability to achieve overall program objectives within defined cost, schedule, and technical constraints and has two components:  
   1. The probability (or likelihood) of failing to achieve a particular outcome 
@@ -28,7 +28,7 @@
 
 ---
 
-### **Summary**
+## **Summary**
 - **Myself**:  
   Risk คือ โอกาสที่จะเกิดความผิดพลาดขึ้น หรือความไม่แน่นอนทั้งหลายที่อาจเกิดขึ้นในอนาคต โดยส่งผลต่อเป้าหมายที่ตั้งใจไว้ในเชิงด้านลบ  
 - **Sample**:  
