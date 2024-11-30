@@ -6,4 +6,5 @@ Risk
 |:------------:|
 |Gemini.       |ความเป็นไปได้ของความเสียหายหรืออันตรายและความน่าจะเป็นที่ความเสียหายหรืออันตรายนั้นจะเกิดขึ้นจริง|
 |:------------:|
-|https://www.isc2.org/certifications/cissp/cissp-student-glossary#r|
+||https://www.isc2.org/certifications/cissp/cissp-student-glossary#r|
+|:---:|
