@@ -3,6 +3,6 @@
 - Phurin
   - Perth
 
-![alt text](IMG_0216.jpeg)
+![alt text](pic/IMG_0216.jpeg)
 
 [☀️ Risk](risk.md)
