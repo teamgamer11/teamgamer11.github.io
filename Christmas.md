@@ -1,4 +1,4 @@
 #
-![Christmas](pic/Christmascard.png)
+![Christmas](pic/Christmas_card.png)
 
 [กลับหน้าแรก](https://github.com/teamgamer11/teamgamer11.github.io)
