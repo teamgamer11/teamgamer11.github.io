@@ -2,7 +2,9 @@
  Description: Duplicate data has nothing to do with backing up your database, which is actually a good thing. Duplicate data refers 
  to multiple instances of the same or very similar information within a dataset or database and is one of the biggest problems in 
  data quality. Duplicates happen when identical or nearly identical records present, leading to unnecessary redundancy. Duplicate 
- data can exist within a single dataset, or across different datasets or systems.
+ data can exist within a single dataset, or across different datasets or systems.  
+  
+Source: [plauti.com/Duplicate data](https://www.plauti.com/guides/data-quality-guide/poor-data-quality-cau)
  
 ---
 
@@ -26,4 +28,3 @@
 
 ---
 
-[![View on GitHub](https://img.shields.io/badge/View%20on-GitHub-blue?logo=github)](https://github.com/your-repo-link)
