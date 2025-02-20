@@ -34,4 +34,7 @@
 ### Data quality
 - [Duplicate Data](duplicate-data.md)
 
+### Security Controls
+- [Digital Door Lock](security-control.md)
+
 ---
