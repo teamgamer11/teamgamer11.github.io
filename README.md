@@ -26,4 +26,7 @@
 
 ### Christmas & New Year 2025
 - [Merry Christmas & Happy New Year 2025](Christmas.md)
+
+### Data quality
+- [Duplicate Data](duplicate-data.md)
 ---
