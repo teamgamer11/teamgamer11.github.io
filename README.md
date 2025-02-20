@@ -1,7 +1,5 @@
-# teamgamer11.github.io
-
-- Phurin
-  - Perth
+# Phurin Phuangmadue
+##About me
 
 ![alt text](pic/IMG_0216.jpeg)
 
