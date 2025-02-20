@@ -3,6 +3,7 @@
 ![alt text](pic/IMG_0216.jpeg)
 
 ## About me
+
 ---
 ## Personal Information
 - **Name:** Phurin Phuangmadue
@@ -11,6 +12,7 @@
 - **Faculty:** Faculty of Science at Sriracha
 - **Major:** Computer Science
 - **University:** Kasetsart University at Si Racha Campus
+
 ---
 ## Skills and Tools
 - **💻 Programming Languages**
@@ -19,6 +21,7 @@
   [e.g., HTML, CSS, React, Node.js, MySQL, Git]
 - **📚 Special Interests**
   [e.g., Web Development, Machine Learning, Mobile App Development]
+
 ---
 ## Work
 ### InfoSysSec Glossary
@@ -29,4 +32,5 @@
 
 ### Data quality
 - [Duplicate Data](duplicate-data.md)
+
 ---
