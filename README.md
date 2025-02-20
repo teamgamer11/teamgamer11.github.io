@@ -21,7 +21,7 @@
   [e.g., Web Development, Machine Learning, Mobile App Development]
 ---
 ## Work
-#### [☀️ Risk](risk.md)
+#### -[☀️ Risk](risk.md)
 
-#### [Merry Christmas & Happy New Year 2025](Christmas.md)
+#### -[Merry Christmas & Happy New Year 2025](Christmas.md)
 ---
