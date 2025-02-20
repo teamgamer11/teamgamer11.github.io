@@ -8,7 +8,7 @@
 
 The Indeed Condo Kaset Sriracha
 
-
+![Digital Door Lock](pic/doorlock.jpg)
 
 ---
 
