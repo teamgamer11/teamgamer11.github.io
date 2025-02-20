@@ -1,9 +1,7 @@
 ## Duplicate Data Defination:
- Description: Duplicate data has nothing to do with backing up your database, which is actually a good thing. Duplicate data refers 
- to multiple instances of the same or very similar information within a dataset or database and is one of the biggest problems in 
- data quality. Duplicates happen when identical or nearly identical records present, leading to unnecessary redundancy. Duplicate 
- data can exist within a single dataset, or across different datasets or systems.  
-  
+ คำอธิบาย:
+ ข้อมูลซ้ำซ้อนไม่ได้เกี่ยวข้องกับการสำรองฐานข้อมูลของคุณ (ซึ่งจริง ๆ แล้วการสำรองข้อมูลเป็นสิ่งที่ดี) ข้อมูลซ้ำซ้อนหมายถึงการมีข้อมูลที่เหมือนกันหรือใกล้เคียงกันหลายชุดภายในชุดข้อมูลหรือฐานข้อมูล และถือเป็นหนึ่งในปัญหาสำคัญที่สุดด้านคุณภาพข้อมูล การเกิดข้อมูลซ้ำซ้อนเกิดขึ้นเมื่อมีระเบียน 
+ ที่เหมือนหรือเกือบเหมือนกันปรากฏ ส่งผลให้เกิดความซ้ำซ้อนโดยไม่จำเป็น ข้อมูลซ้ำซ้อนสามารถเกิดขึ้นได้ทั้งในชุดข้อมูลเดียว หรือกระจายอยู่ในหลายชุดข้อมูลหรือหลายระบบ
 Source: [plauti.com/Duplicate data](https://www.plauti.com/guides/data-quality-guide/poor-data-quality-cau)
  
 ---
