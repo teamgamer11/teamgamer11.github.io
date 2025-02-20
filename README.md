@@ -24,6 +24,7 @@
 
 ---
 ## Work
+
 ### InfoSysSec Glossary
 - [☀️ Risk](risk.md)
 
