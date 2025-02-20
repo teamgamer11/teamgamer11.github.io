@@ -21,7 +21,9 @@
   [e.g., Web Development, Machine Learning, Mobile App Development]
 ---
 ## Work
-#### -[☀️ Risk](risk.md)
+#### InfoSysSec Glossary
+- [☀️ Risk](risk.md)
 
-#### -[Merry Christmas & Happy New Year 2025](Christmas.md)
+#### Christmas & New Year 2025
+-[Merry Christmas & Happy New Year 2025](Christmas.md)
 ---
