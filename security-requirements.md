@@ -8,4 +8,4 @@ Verify that all user and data attributes and policy information used by access c
 ### สรุปตามความเข้าใจ
 ตรวจสอบว่าผู้ใช้ปลายทางไม่สามารถแก้ไขคุณลักษณะผู้ใช้ ข้อมูล และนโยบายควบคุมการเข้าถึงได้ นอกจากจะได้รับอนุญาต
 
-- [Home](README.md)
+[Home](README.md)
