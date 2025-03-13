@@ -38,5 +38,5 @@
 - [Digital Door Lock](security-control.md)
 
 ### Security Requirements
-- [Control Acces](security-requirements.md)
+- [Acces Control](security-requirements.md)
 ---
